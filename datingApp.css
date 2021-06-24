@@ -1,0 +1,15 @@
+form {
+    background-color: rgb(247, 191, 247); 
+    background-image: linear-gradient(to bottom right, rgb(233, 137, 241), rgb(151, 206, 24));
+    padding-left: 2%;
+
+    }
+
+.head {
+    border: 2px solid black;
+    outline: #c8ff70 solid 10px;
+    margin: 1%;  
+    padding: 5px;
+    text-align: center;
+    background-color: #ff84a9;
+}
